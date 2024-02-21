@@ -1,0 +1,1 @@
+I will make a simple recipe website with only using html. Will update further later as I begin the assignment.
